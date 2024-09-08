@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a1406d96-7a81-454e-9b3c-da15df001b35" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Py3xAPIautomationFramework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/15a13ac6-b794-4930-8c08-deb64f3fd7fa-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/164d69f4-cc6e-4eda-a65a-9bef4466cae5-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/1738697d-4501-42d0-b90d-3991e17efdbf-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/23ca9441-50cc-461e-b790-e1357b659bc5-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/2e535905-3d7f-42d2-9d28-8e1b38e9d321-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/320c1114-caff-4531-a6d7-3d1257ca40aa-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/3b5134d7-9e34-4812-a62a-d775e51f5044-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/6242772f-8565-4665-931f-d124b1646541-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/6453ba9f-41a4-4f84-9fe6-fdfc2e505aae-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/7e8b1a23-4ba9-48f7-ad5b-f107959d83bb-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/84d23d6c-6b68-438e-a314-8bdd121caa43-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/893424dc-2a9e-4440-bb1e-28ebd74ac5cc-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/8b5596e5-0150-490b-a991-3912f89c17f0-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/92c8eefe-42d6-4d3b-b23b-660ef4d3da7f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/b1eb6b4a-c643-4bf4-b2e9-714d0a5d2ccb-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/b7f46c43-0ef0-4714-b469-138e5c3e4fef-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/c7b2be71-3979-4b72-86dc-163fb2d5381b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/d62e8163-f672-4710-b415-4c7ebf615d0c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/api_constants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helpers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helpers/api_requests_wrapper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helpers/common_verification.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helpers/payload_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/tests/crud/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/tests/crud/test_create_booking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/tests/crud/tets_cred_better.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2lTjUkypm74JlM5T4hEo6gSx6NP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jagad\PycharmProjects\Py3xAPIautomationFramework\tests\tests" />
+      <recent name="C:\Users\jagad\PycharmProjects\Py3xAPIautomationFramework\tests" />
+      <recent name="C:\Users\jagad\PycharmProjects\Py3xAPIautomationFramework\tests\crud\tests" />
+      <recent name="C:\Users\jagad\PycharmProjects\Py3xAPIautomationFramework\tests\crud" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-48aec45f0201-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17011.127" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1406d96-7a81-454e-9b3c-da15df001b35" name="Changes" comment="" />
+      <created>1725210977917</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725210977917</updated>
+    </task>
+    <servers />
+  </component>
+</project>
